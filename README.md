@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **EY**
 
-- 👨‍💻 All of my projects are available at [https://jbarcossc.github.io/Data-Science-Analytics/](https://jbarcossc.github.io/Data-Science-Analytics/)
+- 👨‍💻 All of my projects are available at [https://jbarcossc.github.io/Portfolio/](https://jbarcossc.github.io/Portfolio/)
 
 - 📫 How to reach me **juancruzbarcos@hotmail.com**
 
