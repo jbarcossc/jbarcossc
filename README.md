@@ -3,7 +3,7 @@
 
 <img src="Github Banner.png">
 
-- 🔭 I’m currently working on **sovanta AG**
+- 🔭 I’m currently working at **sovanta AG**
 
 - 👨‍💻 All of my projects are available at [https://jbarcossc.github.io/Portfolio/](https://jbarcossc.github.io/Portfolio/)
 
