@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Cruz Barcos</h1>
-<h3 align="center">A passionate Computer & Data Science Student from Argentina</h3>
+<h3 align="center">A passionate Computer Science Student from Argentina</h3>
 
 <img src="Github Banner.png">
 
