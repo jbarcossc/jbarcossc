@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at **sovanta AG**
 
-- 👨‍💻 All of my projects are available at [https://jbarcossc.github.io/Portfolio/](https://jbarcossc.github.io/Portfolio/)
-
 - 📫 How to reach me **juancruzbarcos@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
