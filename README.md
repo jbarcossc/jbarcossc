@@ -3,7 +3,7 @@
 
 <img src="Github Banner.png">
 
-- 🔭 I’m currently working at **sovanta AG**
+- 🔭 I’m currently working at **Softtek**
 
 - 📫 How to reach me **juancruzbarcos@hotmail.com**
 
